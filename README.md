@@ -8,15 +8,12 @@ where we build and experiment with various models to solve real-world problems.
 ✅ Python<br/>
 ✅ Flask<br/>
 ✅ Docker<br/>
+✅ Jinja2<br/>
 
 ## 🚀 Learning Objectives
 
-✅ Gain an understanding of machine learning algorithms.<br/>
-✅ Experiment with data preprocessing techniques.<br/>
-✅ Build regression and classification models.<br/>
-✅ Train models using Scikit-learn.<br/>
-✅ Visualize data and model predictions.<br/>
-✅ Deploy machine learning models with Flask and Docker.<br/>
+✅ Building and running a Flask app inside a Docker container.<br/>
+✅ Using Jinja2 for dynamic HTML rendering.<br/>
 
 ## 📝 Version
 
