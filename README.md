@@ -14,6 +14,7 @@ where we build and experiment with various models to solve real-world problems.
 
 ✅ Building and running a Flask app inside a Docker container.<br/>
 ✅ Using Jinja2 for dynamic HTML rendering.<br/>
+✅ Build ECommerce Application using Python.<br/>
 
 ## 📝 Version
 
