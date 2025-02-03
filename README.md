@@ -6,15 +6,21 @@ where we build and experiment with various models to solve real-world problems.
 ## 🛠️ Tech Stack
 
 ✅ Python<br/>
+✅ Jupyter<br/>
 ✅ Flask<br/>
-✅ Docker<br/>
 ✅ Jinja2<br/>
+✅ Docker<br/>
+✅ Boto3<br/>
+✅ Numpy<br/>
+✅ Pandas<br/>
 
 ## 🚀 Learning Objectives
 
-✅ Building and running a Flask app inside a Docker container.<br/>
-✅ Using Jinja2 for dynamic HTML rendering.<br/>
-✅ Build ECommerce Application using Python.<br/>
+✅ Build an ECommerce Application using Python.<br/>
+✅ Containerize the Flask app using Docker.<br/>
+✅ Use Jinja2 for dynamic HTML rendering in the app.<br/>
+✅ Implement image upload, download, and folder management with Boto3.<br/>
+✅ Integrate AWS S3 with Boto3 for file storage and retrieval.<br/>
 
 ## 📝 Version
 
