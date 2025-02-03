@@ -18,8 +18,6 @@ where we build and experiment with various models to solve real-world problems.
 ✅ Build an ECommerce Application using Python.<br/>
 ✅ Containerize the Flask app using Docker.<br/>
 ✅ Use Jinja2 for dynamic HTML rendering in the app.<br/>
-✅ Implement image upload, download, and folder management with Boto3.<br/>
-✅ Integrate AWS S3 with Boto3 for file storage and retrieval.<br/>
 
 ## 📝 Version
 
