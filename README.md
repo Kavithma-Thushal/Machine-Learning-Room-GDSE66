@@ -10,7 +10,6 @@ where we build and experiment with various models to solve real-world problems.
 ✅ Flask<br/>
 ✅ Jinja2<br/>
 ✅ Docker<br/>
-✅ Boto3<br/>
 ✅ Numpy<br/>
 ✅ Pandas<br/>
 
