@@ -1,7 +1,7 @@
 # ⭐ Machine Learning Room GDSE66 ⭐
 
 Welcome to the Machine Learning Room GDSE66 project! This resource is dedicated to exploring machine learning concepts,
-where we build and experiment with various models to solve real-world problems
+where we build and experiment with various models to solve real-world problems.
 
 ## 🛠️ Tech Stack
 
