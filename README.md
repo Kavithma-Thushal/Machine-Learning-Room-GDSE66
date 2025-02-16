@@ -12,6 +12,7 @@ where we build and experiment with various models to solve real-world problems.
 ✅ Docker<br/>
 ✅ Numpy<br/>
 ✅ Pandas<br/>
+✅ RDS<br/>
 
 ## 🚀 Learning Objectives
 
