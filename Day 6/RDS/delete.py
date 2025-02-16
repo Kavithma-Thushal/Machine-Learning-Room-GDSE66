@@ -1,15 +1,20 @@
 import mysql.connector
+from dotenv import load_dotenv
+import os
+
+# Load env
+load_dotenv()
 
 mydb = mysql.connector.connect(
-    host="database-1.c1e684cqc92y.ap-south-1.rds.amazonaws.com",
-    user="admin",
-    password="12345678",
+    host=os.getenv("HOST"),
+    user=os.getenv("USER"),
+    password=os.getenv("PASSWORD"),
 )
 
 mycursor = mydb.cursor()
 
 # Use the database
-mycursor.execute("USE ijse")
+mycursor.execute("USE aws")
 
 # Delete a record by id
 mycursor.execute("""
