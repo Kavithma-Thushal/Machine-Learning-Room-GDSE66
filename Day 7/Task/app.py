@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import joblib
 
 # Load the pre-trained model
-model = joblib.load('music-recommender.joblib')
+model = joblib.load('music-persist.joblib')
 
 app = Flask(__name__)
 
