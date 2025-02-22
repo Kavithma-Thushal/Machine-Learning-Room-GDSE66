@@ -5,6 +5,7 @@ import joblib
 
 # Load dataset
 model_data = pd.read_csv('music.csv')
+print(model_data)
 
 # Prepare features and labels
 X = model_data.drop(columns=['genre'])  # Features
